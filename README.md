@@ -1,6 +1,5 @@
+  <img src="https://www.icegif.com/wp-content/uploads/nyan-cat-icegif-21.gif" src=".github/preview.jpg" width="5%"> Contribua   
 
- Contribua
-#
 [![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
 [![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
 [![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
@@ -63,9 +62,7 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+
 <p align="center">
   <img alt="projeto DevLinks" src="https://blog.hyperiondev.com/wp-content/uploads/2018/11/Blog-GitHub.jpg" width="100%">
 </p>
@@ -241,7 +238,7 @@ Feito com ♥ by [Digital Innovation One](https://www.dio.me/). Projeto de estud
  <p align="center">
   <img src="https://user-images.githubusercontent.com/105497075/226109619-c3032af7-4cb9-444e-9f5b-5aaa9f8ff979.gif" src=".github/preview.jpg" width="10%"><br>  Redes Sociais. 
 </p>
-                                            👩‍🏭 Em construção
+                                       <p align="center">     👩‍🏭 Em construção
    <p align="center">
   <br><a href="https://www.youtube.com/channel/UCXXNb9L0-8eIrAjWM0QrPwQ"_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/eterno____aprendiz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

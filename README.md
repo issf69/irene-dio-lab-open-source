@@ -24,6 +24,7 @@
 
                                     
 <div>
+   <p align="center">
   <a href="https://github.com/issf69">
   <img height="180em"   align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=issf69&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=issf69&layout=compact&langs_count=7&theme=react" />
@@ -34,7 +35,8 @@
    <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/issf69/count.svg"</p>
  
 
-<p align="center">   Objetivo 🎯
+
+<h1 align="center">   Objetivo 🎯 </h1>
 
   </p>
   <p align="center">   
@@ -63,7 +65,7 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 </p>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="https://blog.hyperiondev.com/wp-content/uploads/2018/11/Blog-GitHub.jpg" width="100%">
+  <img alt="Projeto Open Source no GitHub " src="https://blog.hyperiondev.com/wp-content/uploads/2018/11/Blog-GitHub.jpg" width="100%">
 </p>
 
 # 🚀 Tecnologias
